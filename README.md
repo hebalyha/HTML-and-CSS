@@ -1,2 +1,2 @@
 # HTML-and-CSS
-Project pf a portfolio 
+Project for a portfolio 
